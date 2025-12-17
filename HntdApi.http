@@ -1,0 +1,6 @@
+@HntdApi_HostAddress = http://localhost:5104
+
+GET {{HntdApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
