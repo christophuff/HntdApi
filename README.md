@@ -4,7 +4,7 @@ A RESTful API for the HNTD (Haunted Location Finder) application. Built with C# 
 
 ## Technologies
 
-- C# / ASP.NET Core 8
+- C# / ASP.NET Core 9
 - Entity Framework Core
 - PostgreSQL
 - ASP.NET Identity (Cookie Authentication)
@@ -20,7 +20,7 @@ A RESTful API for the HNTD (Haunted Location Finder) application. Built with C# 
 
 ## Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 - [PostgreSQL](https://www.postgresql.org/download/)
 - [Backblaze B2 Account](https://www.backblaze.com/b2/cloud-storage.html) (for image uploads)
 
